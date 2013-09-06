@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>signature ${1} {
+    payload /${2}/
+    alert "${3}"
+}</string>
+	<key>disableAutoIndent</key>
+	<true/>
+	<key>name</key>
+	<string>signature</string>
+	<key>scope</key>
+	<string>source.bro</string>
+	<key>tabTrigger</key>
+	<string>sig</string>
+	<key>uuid</key>
+	<string>303B086F-1F7E-46A0-B72D-E86E9DF1247D</string>
+</dict>
+</plist>

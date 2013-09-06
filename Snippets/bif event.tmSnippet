@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>event ${1}%(c: connection, ${2}%);</string>
+	<key>disableAutoIndent</key>
+	<true/>
+	<key>name</key>
+	<string>bif event</string>
+	<key>scope</key>
+	<string>source.bro</string>
+	<key>tabTrigger</key>
+	<string>bif</string>
+	<key>uuid</key>
+	<string>F988331E-AB95-42A3-9698-8FFC2AA5AECF</string>
+</dict>
+</plist>

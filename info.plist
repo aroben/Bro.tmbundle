@@ -1,0 +1,16 @@
+{	"contactEmailRot13" = "fzvyrqnjtt@zr.pbz";
+	contactName = "Smiledawgg";
+	description = "Tools for working with Bro";
+	mainMenu = {
+		items = (
+            "E0A88EBF-4F1D-4AB6-8A3C-ADC3001710AE",
+            "55415F2B-0A9E-4D4A-991C-1616CEE9B6EE",
+            "3171E1C5-10B5-46DB-9E91-445F42A1AF61",
+            "04BA7C15-B6D3-4C10-A44D-E15B5DF13E5E",
+            "303B086F-1F7E-46A0-B72D-E86E9DF1247D",
+            "F988331E-AB95-42A3-9698-8FFC2AA5AECF"
+        );
+    };
+	name = "Bro";
+	uuid = "0B5F3FA8-A8A1-4DB7-B2B9-E4FB8CA0EA05";
+}
